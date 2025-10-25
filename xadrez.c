@@ -9,7 +9,7 @@ int torre = 1;
 int bispo = 1; 
 int rainha = 1;
 int cavalo_vert = 1;
-int cavalo_hor = 1;
+int cavalo_horiz = 1;
 
 int main() {
     printf("Movimentação - Peças de Xadrez\n\n");
