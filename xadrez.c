@@ -14,7 +14,7 @@ int main() {
         
     // Movimentação da torre - usando loop for
     printf("Movimentação da Torre\n");
-    for (torre = 1; torre <= 5; torre++) {
+    for (torre; torre <= 5; torre++) {
         printf("Direita\n");
     }
     printf("Movimento da Torre concluido.\n\n");
