@@ -24,7 +24,7 @@ int main() {
     // Movimentação do bispo - usando loop while
     printf("Movimentação do Bispo\n");
     while (bispo <= 5) {
-        printf("Cima\n");
+        printf("Cima\t");
         printf("Direita\n");
         bispo++;
     }
